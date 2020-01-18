@@ -1,0 +1,40 @@
+{
+  "name": "dsajs",
+  "version": "1.0.0",
+  "description": "Data Structure and Algorithms in Javascript",
+  "main": "lib/index.js",
+  "scripts": {
+    "start": "nodemon --exec babel-node -- lib/index.js",
+    "lint": "esling .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greedchikara/dsajs.git"
+  },
+  "keywords": [
+    "data",
+    "structures",
+    "algorithms",
+    "javascript"
+  ],
+  "author": "greedchikara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/greedchikara/dsajs/issues"
+  },
+  "homepage": "https://github.com/greedchikara/dsajs#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.8.3",
+    "@babel/core": "^7.8.3",
+    "@babel/node": "^7.8.3",
+    "@babel/preset-env": "^7.8.3",
+    "eslint": "^6.1.0",
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-plugin-import": "^2.20.0",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.18.0",
+    "eslint-plugin-react-hooks": "^1.7.0",
+    "nodemon": "^2.0.2"
+  }
+}
