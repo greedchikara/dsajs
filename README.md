@@ -7,8 +7,9 @@
   </p>
 </div>
 
-## Contents
+![GitHub](https://img.shields.io/github/license/greedchikara/dsajs) ![npm](https://img.shields.io/npm/v/@greedchikara/dsajs) ![npm bundle size](https://img.shields.io/bundlephobia/minzip/@greedchikara/dsajs)
 
+## Contents
 ### Data Structures
 
 #### [Stack](lib/data-structures/Stack.js)
@@ -24,4 +25,3 @@
 
 #### [Binary Search](lib/algorithms/binarySearch.js)
 * Time Complexity: `O(logn)`
-

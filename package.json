@@ -1,5 +1,5 @@
 {
-  "name": "dsajs",
+  "name": "@greedchikara/dsajs",
   "version": "1.0.0",
   "description": "Data Structure and Algorithms in Javascript",
   "main": "lib/index.js",
