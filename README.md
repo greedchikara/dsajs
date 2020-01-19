@@ -13,3 +13,6 @@
 
 - [Stack](lib/data-structures/Stack.js)
 - Linked List (TODO)
+
+#### Algorithms
+- [Binary Search](lib/algorithms/binarySearch.js)
