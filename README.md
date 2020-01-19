@@ -11,8 +11,17 @@
 
 #### Data Structures
 
-- [Stack](lib/data-structures/Stack.js)
+##### [Stack](lib/data-structures/Stack.js)
+* Time Complexity
+  * Access: `O(n)`
+  * Search: `O(n)`
+  * Insert: `O(1)`
+  * Remove: `O(1)`
+
 - Linked List (TODO)
 
 #### Algorithms
-- [Binary Search](lib/algorithms/binarySearch.js)
+
+##### [Binary Search](lib/algorithms/binarySearch.js)
+* Time Complexity: `O(logn)`
+
